@@ -212,7 +212,7 @@ header .dropdown-menu > li > a:hover{
 
 /*aside column*/
 .column-wrapper{
-	padding: 50px 0;
+	padding: 20px 0 50px;
 }
 .aside-column .aside-widget{
 	border-radius: 10px;
