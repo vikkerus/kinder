@@ -1126,6 +1126,11 @@ footer.kid-pen{
 	padding-left: 0;
 }
 
+.navbar-nav .dropdown-menu{
+	position:absolute;
+
+}
+
 
 
 
