@@ -482,6 +482,11 @@ header .dropdown-menu > li > a:hover{
 	background: radial-gradient(circle at 30% 107%,
 	#fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
 }
+.kid-footer .creator{
+    font-size: 12px;
+    padding-top: 30px;
+    text-align: center;
+}
 /*footer*/
 
 
