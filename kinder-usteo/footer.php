@@ -87,6 +87,7 @@
 					<a class="in" href="<?php echo $kinder_in?>" title="Instagram"><i class="fa fa-instagram" aria-hidden="true"></i></a><?php endif;?>				
 				</div>
 			</div>
+            <div class="creator col-xs-12">Создано при поддержке КУ РИАЦ</div>
 		</div>
 	</div>
 </footer>
