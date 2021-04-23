@@ -31,6 +31,22 @@ a, a:hover, a:focus, button, button:hover, button:focus{
 }
 
 
+.alignleft{
+	float: left;
+	margin-right: 10px;
+}
+
+.alignright{
+	float: right;
+	margin-left: 10px;
+}
+
+.aligncenter{
+	float: none;
+	display: block;
+	margin: 0 auto;
+}
+
 /*возрастные ограничения*/
 .kinder_age_control{
 	position: fixed;
