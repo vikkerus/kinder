@@ -17,7 +17,7 @@
                 <a href="<?php echo site_url('/sveden/education');?>" title="Образование">Образование</a>
             </li>
             <li>
-                <a href="<?php echo site_url('/sveden/edustandarts');?>" title="Образовательные стандарты">Образовательные стандарты</a>
+                <a href="<?php echo site_url('/sveden/edustandarts');?>" title="Образовательные стандарты и требования">Образовательные стандарты и требования</a>
             </li>
             <li>
                 <a href="<?php echo site_url('/sveden/employees');?>" title="Руководство. Педагогический (научно-педагогический) состав">Руководство. Педагогический (научно-педагогический) состав</a>
