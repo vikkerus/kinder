@@ -509,8 +509,6 @@ function kinder_scripts()
 	
 	wp_enqueue_script( 'kinder_app', 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js', array(), null, true);
 	
-	wp_enqueue_script( 'kinder_app', get_stylesheet_directory_uri() . '/assets/js/app.js', array(), null, true);
-	
 }
 
 add_action( 'wp_enqueue_scripts', 'kinder_scripts' );
