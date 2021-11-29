@@ -825,6 +825,9 @@ div[itemprop="copy"]{
 #bt_widget-vi-on a, #cr_widget a{
 	margin-top:0;
 }
+#vi_aside .widget-heading {
+    display: none;
+}
 /*виджет с кнопкой для слабовидящих*/
 
 
