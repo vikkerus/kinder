@@ -71,6 +71,20 @@ a, a:hover, a:focus, button, button:hover, button:focus{
 /*возрастные ограничения*/
 
 
+.widget_recent_comments .wp-block-latest-comments{
+    padding-left: 0;
+}
+.wp-block-latest-comments__comment-excerpt p{
+    font-size: 12px;
+    line-height: 16px;
+}
+.has-dates .wp-block-latest-comments__comment, 
+.has-excerpts .wp-block-latest-comments__comment{
+    line-height: 16px;
+    font-size: 12px;
+}
+
+
 /*header*/
 .head_kids header.main-header{
 	background: url('assets/img/main-bg.png');
